@@ -1,0 +1,7 @@
+这是一个关于guice使用的简单demo，guice是一个轻量的DI框架
+simpleDemo包最基础的依赖注入demo
+anotationDemo包是针对一个接口多个实现，然后通过注解来指定注入具体的实现
+providsDemo包是随着一个类的实例化过程变得复杂，通过自定义来实现复杂的对象实例化
+provideDemo包是provisDemo的复杂版本
+这个工程仅仅是个简单的使用demo,起一个入门作用，具体信息可以参考
+https://github.com/google/guice/wiki/Motivation
